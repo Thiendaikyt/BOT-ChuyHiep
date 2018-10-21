@@ -1,15 +1,19 @@
 {
-  "name": "BOT ChuyHiep",
+  "name": "BOT-ChuyHiep",
   "version": "1.0.0",
   "description": "bot node heroku",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": "10.0.0"
   },
   "author": "chuyhiep",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
-    "node-persist": "^0.0.8",
+    "node-persist": "^0.0.8"
   }
 }
