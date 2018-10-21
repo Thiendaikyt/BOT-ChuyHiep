@@ -2,15 +2,15 @@
 
 Code demo tại [botcamxuc.net](http://botcamxuc.net/).
 
-This application supports the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
+Hỗ trợ thêm tại facebook [Chụy Hiệp](https://fb.com/itvn90).
 
 ## Running Locally
 
-Make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cli.heroku.com/) installed.
+Bạn cần cài đặt [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cli.heroku.com/) installed.
 
 ```sh
-$ git clone https://github.com/heroku/node-js-getting-started.git # or clone your own fork
-$ cd node-js-getting-started
+$ git clone https://github.com/hjephb90/BOT-ChuyHiep.git # lấy bản code mẫu
+$ cd BOT-ChuyHiep
 $ npm install
 $ npm start
 ```
