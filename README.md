@@ -1,11 +1,11 @@
-# bot nodejs heroku by chuyhiep
+# Bot node Heroku by Chuy Hiep
 
 Code demo tại [botcamxuc.net](http://botcamxuc.net/).
 
 Hỗ trợ thêm tại facebook [Chụy Hiệp](https://fb.com/itvn90).
 
 ## Cài đặt và chạy thử tại máy cá nhân
-
+Bạn cần có 1 tài khoản tại [Heroku CLI](https://cli.heroku.com/).
 Bạn cần cài đặt [Node.js](http://nodejs.org/)  và  [Heroku CLI](https://cli.heroku.com/) và [Git] (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
 Mở cmd chạy command sau:
@@ -22,9 +22,17 @@ $ npm start
 
 Mở cmd chạy command sau:
 ```
-$ heroku create myapp #myapp là tên app tại heroku
+$ heroku login # nhập email và mật khẩu tài khoản heroku 
+$ heroku create myapp # myapp là tên app tại heroku
 $ git push heroku master
 $ heroku open
+```
+
+## Tắt bật app
+```
+$ heroku ps:scale web=1 # Tắt app
+$ heroku ps:scale web=0 # Bật app
+# Lưu ý các lưu trữ cục bộ trên heroku sẽ mất khi bạn tắt app hoặc resart app
 ```
 
 ## Tài liệu tham khảo
