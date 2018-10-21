@@ -16,7 +16,7 @@ $ npm install
 $ npm start
 ```
 
-Ứng dụng sẽ chạy tại [localhost:5000](http://localhost:3456/).
+Ứng dụng sẽ chạy tại [localhost:3456](http://localhost:3456/).
 
 ## Đưa code lên Heroku
 
