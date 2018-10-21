@@ -1,6 +1,8 @@
 # Bot node Heroku by Chuy Hiep
 
-Code demo tại [botcamxuc.net](http://botcamxuc.net/).
+Code demo 1 [botcamxuc.net](http://botcamxuc.net/).
+
+Code demo 2 [chuyhiep.herokuapp.com](https://chuyhiep.herokuapp.com/).
 
 Hỗ trợ thêm tại facebook [Chụy Hiệp](https://fb.com/itvn90).
 
