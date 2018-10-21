@@ -7,7 +7,7 @@ Hỗ trợ thêm tại facebook [Chụy Hiệp](https://fb.com/itvn90).
 ## Cài đặt và chạy thử tại máy cá nhân
 Bạn cần có 1 tài khoản tại [Heroku CLI](https://cli.heroku.com/).
 
-Bạn cần cài đặt [Node.js](http://nodejs.org/)  và  [Heroku CLI](https://cli.heroku.com/) và [Git] (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git/).
+Bạn cần cài đặt [Node.js](http://nodejs.org/)  và  [Heroku CLI](https://cli.heroku.com/) và [Git] (https://git-scm.com/downloads/).
 
 Mở cmd chạy command sau:
 ```sh
